@@ -246,6 +246,7 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 4em);
+		/* even the max-width is responsive!*/
 		width: 100%;
 	}
 
